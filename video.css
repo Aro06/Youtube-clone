@@ -1,0 +1,90 @@
+.nav {
+    display: flex;
+    padding: 0px 50px;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    margin-top: -25px;
+}
+.fa {
+    padding: 8px;
+    cursor: pointer;
+}
+form {
+    margin-top: -85px;
+    margin-left: 190px;
+}
+.nav img {
+    width: 130px;
+    height: 130px;
+    margin-left: 30px;
+    margin-top: -5px;
+    cursor: pointer;
+    align-items: center;
+}
+#search {
+    width: 400px;
+    height: 40px;
+    border: 1px solid gray;
+    margin-left: 200px;
+    cursor: pointer;
+}
+::-webkit-input-placeholder   {
+    font-family: Roboto,Noto,sans-serif;
+    font-size: 16px;
+    font-weight: 400px;
+    padding-left: 10px;
+}
+.butt {
+    width: 50px;
+    height: 40px;
+    border: 1px solid gray;
+    cursor: pointer;
+}
+.butt2 {
+    border: 1px solid gray;
+    border-radius: 30px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+/* camera navbar */
+.cam-icon {
+    width: 30px;
+    height: 30px;
+    margin-left: 210px;
+    cursor: pointer;
+}
+/* zangak icon nav */
+.bell-icon {
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+/* profile icon nav */
+.profile {
+    width: 30px;
+    height: 50px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+/* hr */
+.git {
+    margin-top: 50px;
+    width: 1160px;
+    margin-left: 200px;
+}
+
+.embed-responsive {
+    width: 746px;
+    height: 420px;
+    position: relative;
+    top: 60px;
+    left: 30px;
+    display: flex;
+}
+.nkar {
+    width: 100px;
+    height: 50px;
+}

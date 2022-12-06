@@ -1,0 +1,420 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.nav {
+    display: flex;
+    padding: 0px 50px;
+    align-items: center;
+    justify-content: center;
+    height: 40px;
+    margin-top: -25px;
+}
+.fa {
+    padding: 8px;
+    cursor: pointer;
+}
+form {
+    margin-top: -85px;
+    margin-left: 190px;
+}
+.nav img {
+    width: 130px;
+    height: 130px;
+    margin-left: 30px;
+    margin-top: -5px;
+    cursor: pointer;
+    align-items: center;
+}
+#search {
+    width: 400px;
+    height: 40px;
+    border: 1px solid gray;
+    margin-left: 200px;
+    cursor: pointer;
+}
+::-webkit-input-placeholder   {
+    font-family: Roboto,Noto,sans-serif;
+    font-size: 16px;
+    font-weight: 400px;
+    padding-left: 10px;
+}
+.butt {
+    width: 50px;
+    height: 40px;
+    border: 1px solid gray;
+    cursor: pointer;
+}
+.butt2 {
+    border: 1px solid gray;
+    border-radius: 30px;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+/* camera navbar */
+.cam-icon {
+    width: 30px;
+    height: 30px;
+    margin-left: 210px;
+    cursor: pointer;
+}
+/* zangak icon nav */
+.bell-icon {
+    width: 30px;
+    height: 30px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+/* profile icon nav */
+.profile {
+    width: 30px;
+    height: 50px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+/* hr */
+.git {
+    margin-top: 50px;
+    width: 1160px;
+    margin-left: 200px;
+}
+
+
+
+/* skizb */
+.mas1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 7px;
+    margin-left: 215px;
+    text-align: center;
+    cursor: pointer;
+}
+.s1 {
+    border-radius: 20px;
+    width: 55px;
+    height: 32px;
+    background-color: rgb(240, 233, 233);
+    box-sizing: border-box;
+    border: 0.1px solid black;
+    font-weight: 400;
+    background-color: black;
+    color: white;
+}
+.s1:hover{
+    background-color: gray;
+}
+.s2 {
+    border-radius: 20px;
+    width: 87px;
+    height: 32px;
+    background-color: rgb(240, 233, 233);
+    box-sizing: border-box;
+    border: 0.5px solid black;
+    font-weight: 400;
+}
+.s2:hover {
+    background-color: gray;
+}
+.s3 {
+    border-radius: 20px;
+    width: 120px;
+    height: 32px;
+    background-color: rgb(240, 233, 233);
+    box-sizing: border-box;
+    border: 0.5px solid black;
+    font-weight: 400;
+}
+.s3:hover {
+    background-color: gray;
+}
+.s4 {
+    border-radius: 20px;
+    width: 90px;
+    height: 32px;
+    background-color: rgb(240, 233, 233);
+    box-sizing: border-box;
+    border: 0.5px solid black;
+    font-weight: 400;
+}
+.s4:hover {
+    background-color: gray;
+}
+.s5 {
+    border-radius: 20px;
+    width: 170px;
+    height: 32px;
+    background-color: rgb(240, 233, 233);
+    box-sizing: border-box;
+    border: 0.5px solid black;
+    font-weight: 400;
+}
+.s5:hover {
+    background-color: gray;
+}
+.s6 {
+    border-radius: 20px;
+    width: 125px;
+    height: 32px;
+    background-color: rgb(240, 233, 233);
+    box-sizing: border-box;
+    border: 0.5px solid black;
+    font-weight: 400;
+}
+.s6:hover {
+    background-color: gray;
+}
+.s7 {
+    border-radius: 20px;
+    width: 84px;
+    height: 32px;
+    background-color: rgb(240, 233, 233);
+    box-sizing: border-box;
+    border: 0.5px solid black;
+    font-weight: 400;
+}
+.s7:hover {
+    background-color: gray;
+}
+.s8 {
+    border-radius: 20px;
+    width: 115px;
+    height: 32px;
+    background-color: rgb(240, 233, 233);
+    box-sizing: border-box;
+    border: 0.5px solid black;
+    font-weight: 400;
+}
+.s8:hover {
+    background-color: gray;
+}
+.s9 {
+    border-radius: 20px;
+    width: 235px;
+    height: 32px;
+    background-color: rgb(240, 233, 233);
+    box-sizing: border-box;
+    border: 0.5px solid black;
+    font-weight: 400;
+}
+.s9:hover {
+    background-color: gray;
+}
+/* hr2 */
+.git2 {
+    margin-top: 10px;
+    width: 1120px;
+    margin-left: 240px;
+}
+
+
+
+/* aj */
+.ajmas {
+    width: fit-content;
+    float: left;
+}
+.h1 {
+    font-size: 20px;
+    display: flex;
+    color: black;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#E2E0DF;
+    width: 200px;
+}
+.h1:hover {
+    text-decoration: none;
+    color: black;
+}
+.n1 {
+    width: 24px;
+    height: 24px;
+    margin-left: -23px;
+}
+.k1 {
+    margin-left: 20px;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 5px;
+    font-weight: 400;
+}
+
+
+/* aj 2 */
+.h2 {
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    margin-top: -8px;
+}
+.h2:hover {
+    background-color: #E2E0DF;
+    text-decoration: none;
+    color: black;
+}
+.n2 {
+    width: 24px;
+    height: 24px;   
+}
+.k2 {
+    margin-left: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+/* aj 3 */
+.h3 {
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    margin-top: -8px;
+}
+.h3:hover {
+    background-color:#E2E0DF;
+    text-decoration: none;
+    color: black;
+}
+.n3 {
+    width: 24px;
+    height: 24px; 
+    margin-left: -35px;  
+}
+.k3 {
+    margin-left: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 400;
+}
+/* h4e kapata h2i het */
+/* git 3 */
+.git3 {
+    width: 230px;
+}
+
+/* aj 5 */
+.h5 {
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    margin-top: -8px;
+}
+.h5:hover {
+    background-color:#E2E0DF;
+    text-decoration: none;
+    color: black;
+}
+.n5 {
+    width: 24px;
+    height: 24px; 
+    margin-left: 10px;  
+}
+.k5 {
+    margin-left: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+/* aj 6 */
+.h6 {
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    margin-top: -8px;
+}
+.h6:hover {
+    background-color:#E2E0DF;
+    text-decoration: none;
+    color: black;
+}
+.n6 {
+    width: 24px;
+    height: 24px; 
+    margin-left: -20px;  
+}
+.k6 {
+    margin-left: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+/* aj 7 */
+.h7 {
+    font-size: 20px;
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 200px;
+    margin-top: -8px;
+}
+.h7:hover {
+    background-color:#E2E0DF;
+    text-decoration: none;
+    color: black;
+}
+.n7 {
+    width: 24px;
+    height: 24px; 
+    margin-left: 12px;  
+}
+.k7 {
+    margin-left: 20px;
+    text-align: center;
+    font-weight: 400;
+}
+
+
+
+
+/* 1i sharq */
+.glux-nkar {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.nkar-blok:hover {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
+.nkar-blok {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 200px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    color: black;
+    font-weight:600;
+}
+
+
+.vernagir {
+    word-wrap: break-word;
+}
